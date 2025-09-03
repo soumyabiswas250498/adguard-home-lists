@@ -6,7 +6,6 @@
 ||workflow.licenses.adobe.com^
 ||auth.services.adobe.com^
 ||adminconsole.adobe.com^
-||cc-ext-prod-pkgs.s3.amazonaws.com^
 ||ccmdls.adobe.com^
 ||ccmdl.adobe.com^
 ||ans.oobesaas.adobe.com^
@@ -245,7 +244,6 @@
 ||api.adobe.io^
 ||adobeexchange.com/api^
 ||licenses.adobe.com^
-||amazonaws.com^
 ||adobe.io^
 ||cc-api-sharedproductions-prerelease.adobe.io^
 ||cc-api-teamprojects.adobe.io^
